@@ -1,0 +1,13 @@
+C:\Users\kyle_\source\repos\pirates\pirates\bin\Debug\pirates.exe.config
+C:\Users\kyle_\source\repos\pirates\pirates\bin\Debug\pirates.exe
+C:\Users\kyle_\source\repos\pirates\pirates\bin\Debug\pirates.pdb
+C:\Users\kyle_\source\repos\pirates\pirates\bin\Debug\System.Data.OleDb.dll
+C:\Users\kyle_\source\repos\pirates\pirates\bin\Debug\System.Data.OleDb.xml
+C:\Users\kyle_\source\repos\pirates\pirates\obj\Debug\pirates.csproj.AssemblyReference.cache
+C:\Users\kyle_\source\repos\pirates\pirates\obj\Debug\pirates.Form1.resources
+C:\Users\kyle_\source\repos\pirates\pirates\obj\Debug\pirates.Properties.Resources.resources
+C:\Users\kyle_\source\repos\pirates\pirates\obj\Debug\pirates.csproj.GenerateResource.cache
+C:\Users\kyle_\source\repos\pirates\pirates\obj\Debug\pirates.csproj.CoreCompileInputs.cache
+C:\Users\kyle_\source\repos\pirates\pirates\obj\Debug\pirates.csproj.CopyComplete
+C:\Users\kyle_\source\repos\pirates\pirates\obj\Debug\pirates.exe
+C:\Users\kyle_\source\repos\pirates\pirates\obj\Debug\pirates.pdb
